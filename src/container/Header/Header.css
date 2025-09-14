@@ -1,0 +1,23 @@
+.app__header {
+    background-color: black;
+}
+
+.app__header-h1 {
+    font-family: Cormorant;
+    color:gold;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 117px;
+    font-size: 90px;
+    margin: 1rem 0;
+}
+
+.app__header .p__cormorant {
+  color: #DCCA87; /* your desired color */
+  font-size: 18px; /* optional */
+}
+
+
+
+
+
