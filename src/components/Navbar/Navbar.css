@@ -1,5 +1,5 @@
 .app__navbar {
-    width: 95%;
+    width: 97.345%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -138,12 +138,16 @@
         display: flex;
 
     }
+
+    .app__navbar{
+        width: 91.5%;
+    }
 }
 
 @media screen and (max-width: 650px) {
     .app__navbar{
         padding: 1rem;
-        width: 90%;
+        width: 92.2%;
     }
 
     .app__navbar-login {

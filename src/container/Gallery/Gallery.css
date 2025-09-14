@@ -126,13 +126,13 @@
 
 @media screen and (max-width: 850px) {
     .app__gallery {
-        padding: 2rem 0;
+        padding: 4rem 0 4rem 4rem;
     }
 }
 
 @media screen and (max-width: 650px) {
     .app__gallery {
-        padding: 2rem 0;
+        padding: 4rem 0 4rem 2rem;
     }  
     
     .app__gallery-content {
