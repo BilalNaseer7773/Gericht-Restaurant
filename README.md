@@ -37,4 +37,4 @@ This project is ideal for front-end developers looking to showcase their skills 
   - Custom fonts for elegant typography
 
 
-
+## Link to the Deployed page: https://gerichtsrestaurante.netlify.app
