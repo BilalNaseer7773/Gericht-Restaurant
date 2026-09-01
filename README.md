@@ -1,6 +1,5 @@
 # Gericht Restaurant - React Landing Page
 
-
 ## Overview
 
 **Gericht Restaurant** is a modern, responsive, and visually appealing restaurant landing page built using **React.js**. The project showcases a professional UI design inspired by high-end culinary websites. The interface emphasizes elegant typography, attractive food imagery, and smooth navigation to enhance the user experience.
